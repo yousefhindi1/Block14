@@ -82,7 +82,7 @@ const userInputString = prompt(
   function getMax(numbers) {
     // TODO
 
-    return Math.mac(... numbers);
+    return Math.max(... numbers);
 
   }
   
